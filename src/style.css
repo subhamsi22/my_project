@@ -9,3 +9,10 @@
 h1{
     font-family: 'cinzel';
 }
+#animation{
+  display: flex;
+
+}
+#main{
+  display: none;
+}
